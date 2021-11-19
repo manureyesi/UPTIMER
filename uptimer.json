@@ -1,0 +1,17 @@
+{
+	"listConfig": [
+		{
+			"nombre": "API PRUEBAS [INT]",
+			"url": "http://api-int.online:8080/actuator/info",
+			"puerto": 0,
+			"protocolo": "HTTP",
+			"method": "GET",
+			"comprobarCambio": true,
+			"campoBusqueda": "build.version",
+			"ultimoRegistro": "1.0.0",
+			"ultimoRegistroStatus": null,
+			"ultimaActualizacion": 1637323400576,
+			"tiempoConsultaSegundos": 10000
+		}
+	]
+}
